@@ -1,7 +1,7 @@
 Homework #1
 ===========
 
-(Note, this homework is not yet complete; I may add to it. --titus)
+(Note, this homework is not yet complete; I may add to it. --titus the first)
 
 Due January 24th at 11:59pm.
 
